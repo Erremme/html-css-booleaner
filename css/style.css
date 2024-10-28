@@ -18,3 +18,21 @@ nav{
 #date{
     font-size: 10px;
 }
+
+table{
+    width: 100%;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+    
+}
+
+#cell_3{
+    width: 60%;
+}
+
+.table-row-13{
+    background-color: #B1E5F2;
+}
